@@ -1,0 +1,37 @@
+WARNING: no script file dictionary.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+  dictionary        21         21         21         21
+        dict        21         21         21         21
+
+21 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. b     :     3
+  2. e     :    10
+  3. r     :     5
+  4. i     :     7
+  5. k     :     3
+  6. u     :     7
+  7. t     :     9
+  8. ny    :     2
+  9. a     :    17
+ 10. sp    :    19
+ 11. d     :     3
+ 12. l     :     7
+ 13. p     :     4
+ 14. n     :     4
+ 15. m     :     7
+ 16. h     :     4
+ 17. y     :     1
+ 18. o     :     1
+ 19. s     :     4
+ 20. sil   :     2
+ 21. ay    :     1
+ 22. g     :     1
+ 23. j     :     1
+
+Dictionary dict created

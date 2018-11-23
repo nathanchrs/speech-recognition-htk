@@ -1,0 +1,6 @@
+htk/
+sample/
+.vscode/
+train/
+.DS_Store
+py_cache/

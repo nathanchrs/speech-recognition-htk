@@ -1,0 +1,76 @@
+VERSION=1.0
+N=25   L=49   
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=SENT-START          
+I=3    W=SLIDE               
+I=4    W=KE                  
+I=5    W=SATU                
+I=6    W=!NULL               
+I=7    W=DUA                 
+I=8    W=TIGA                
+I=9    W=EMPAT               
+I=10   W=LIMA                
+I=11   W=ENAM                
+I=12   W=TUJUH               
+I=13   W=DELAPAN             
+I=14   W=SEMBILAN            
+I=15   W=NOL                 
+I=16   W=BERIKUTNYA          
+I=17   W=!NULL               
+I=18   W=SEBELUMNYA          
+I=19   W=PERTAMA             
+I=20   W=TERAKHIR            
+I=21   W=LAYAR               
+I=22   W=HITAM               
+I=23   W=PUTIH               
+I=24   W=SENT-END            
+J=0     S=24   E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=3    E=4    
+J=4     S=4    E=5    
+J=5     S=6    E=5    
+J=6     S=5    E=6    
+J=7     S=7    E=6    
+J=8     S=8    E=6    
+J=9     S=9    E=6    
+J=10    S=10   E=6    
+J=11    S=11   E=6    
+J=12    S=12   E=6    
+J=13    S=13   E=6    
+J=14    S=14   E=6    
+J=15    S=15   E=6    
+J=16    S=4    E=7    
+J=17    S=6    E=7    
+J=18    S=4    E=8    
+J=19    S=6    E=8    
+J=20    S=4    E=9    
+J=21    S=6    E=9    
+J=22    S=4    E=10   
+J=23    S=6    E=10   
+J=24    S=4    E=11   
+J=25    S=6    E=11   
+J=26    S=4    E=12   
+J=27    S=6    E=12   
+J=28    S=4    E=13   
+J=29    S=6    E=13   
+J=30    S=4    E=14   
+J=31    S=6    E=14   
+J=32    S=4    E=15   
+J=33    S=6    E=15   
+J=34    S=3    E=16   
+J=35    S=16   E=17   
+J=36    S=18   E=17   
+J=37    S=19   E=17   
+J=38    S=20   E=17   
+J=39    S=22   E=17   
+J=40    S=23   E=17   
+J=41    S=3    E=18   
+J=42    S=3    E=19   
+J=43    S=3    E=20   
+J=44    S=2    E=21   
+J=45    S=21   E=22   
+J=46    S=21   E=23   
+J=47    S=6    E=24   
+J=48    S=17   E=24   

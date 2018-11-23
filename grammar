@@ -1,0 +1,6 @@
+$angka = SATU | DUA | TIGA | EMPAT | LIMA | ENAM | TUJUH | DELAPAN | SEMBILAN | NOL;
+$nomor = <$angka>;
+$arg = KE ($nomor) | BERIKUTNYA | SEBELUMNYA | PERTAMA | TERAKHIR;
+$warna = HITAM | PUTIH;
+
+( SENT-START (SLIDE ($arg) | LAYAR ($warna)) SENT-END )
